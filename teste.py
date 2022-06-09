@@ -11,7 +11,7 @@ print("e outro")
 
 x = 18
 if x == 18:
-	print ("número 18")
+	print ("número maior que 18")
 else:
 	print ("outro número")
 
