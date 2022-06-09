@@ -13,7 +13,7 @@ x = 18
 if x == 18:
 	print ("número maior que 18")
 else:
-	print ("outro número")
+	print ("outro número qualquer")
 
 
 valor = 10
