@@ -9,6 +9,12 @@ print("nova linha diaria")
 print("criando uma nova diretriz")
 print("e outro")
 
+x = 18
+if x == 18:
+	print ("número 18")
+else:
+	print ("outro número")
+
 
 valor = 10
 if valor <= 10:
