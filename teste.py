@@ -6,8 +6,7 @@ print("nova linha")
 print("linha 6 para teste")
 print("estou comitando mais uma vez para testar")
 print("nova linha diaria")
-print("criando uma nova diretriz")
-print("e outro")
+print("reformulando linha 9")
 
 x = 18
 if x == 18:
