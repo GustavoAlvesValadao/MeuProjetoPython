@@ -9,10 +9,12 @@ print("nova linha diaria")
 print("reformulando linha 9")
 print ("criando novas linhas")
 print("testando um novo metodo")
+print("deseja um novo número?")
 
 x = 18
 if x == 18:
 	print ("número maior que 18")
+	print("deseja outro número?")
 else:
 	print ("outro número qualquer")
 
