@@ -12,6 +12,12 @@ print("testando um novo metodo")
 print("deseja um novo número?")
 print("novo commit")
 
+y = 15
+if y != 15:
+	print("numero não é 15")
+else:
+	print("15")
+
 x = 18
 if x == 18:
 	print ("número maior que 18")
