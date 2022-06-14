@@ -15,6 +15,7 @@ print ("commit dia dos namorados")
 print ("comitando novamente")
 print ("+ 1")
 print("+2")
+print("+3")
 
 y = 15
 if y != 15:
